@@ -129,4 +129,3 @@ for ($ligne = 1; $ligne <= 3; $ligne++) {
 
 echo "</table>";
 
-?>
